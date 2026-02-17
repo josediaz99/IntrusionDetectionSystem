@@ -114,16 +114,6 @@ This mirrors real world engineering documentation practices.
 
 ---
 
-## Key Contributions
-
-- Designed and implemented the ETL pipeline  
-- Cleaned and staged network flow data  
-- Researched feature significance across 78 features  
-- Performed feature reduction and scaling  
-- Trained and evaluated ML models for intrusion detection  
-- Contributed to ADR documentation  
-
----
 
 ## Future Improvements
 
